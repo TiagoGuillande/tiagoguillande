@@ -7,3 +7,5 @@
 - 💬 Me pergunte como ajudar a salvar o mundo! ...
 - 📫 Como me encontrar? @tiagoguillande
 - ⚡ Um fato curioso: Não tomo café com açúcar!
+
+<img src = "[happy.svg](https://xesque.rocketseat.dev/platform/tech/css3.svg)" alt="CSS3"/> <img src = "[happy.svg](https://xesque.rocketseat.dev/platform/tech/html5.svg)" alt="HTML5"/> <img src = "[happy.svg](https://xesque.rocketseat.dev/platform/tech/javascript.svg)" alt="JavaScript"/> <img src = "[happy.svg](https://xesque.rocketseat.dev/platform/tech/sql-server.svg)" alt="SQL Server"/> <img src = "[happy.svg](https://xesque.rocketseat.dev/platform/tech/python.svg)" alt="Python"/> <img src = "[happy](https://xesque.rocketseat.dev/platform/tech/java.svg)" alt="Java"/> <img src = "[happy.svg](https://xesque.rocketseat.dev/platform/tech/php.svg)" alt="PHP"/>
